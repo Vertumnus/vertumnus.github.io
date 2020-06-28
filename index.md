@@ -1,1 +1,2 @@
 # Mr. Spock
+Mr. Spock ist ein Vulkanier und stammt vom Planeten Vulkan. Eigentlich ist er nur ein Halbvulkanier, da er halb Mensch ist. Er ist Mitglied der Sternenflotte und vollbringt seinen Dienst als wissenschaftlicher Offizier und erster Commander auf der U.S.S Enterprise unter dem Kommando von James T. Kirk.
