@@ -11,3 +11,5 @@ Mr. Spock ist ein Vulkanier und stammt vom Planeten Vulkan. Eigentlich ist er nu
 
 Ein typischer vulkanischer Gruß, den auch Mr. Spock gerne anbringt:
 > Live long and prosper
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Leonard_Nimoy_Spock_1967.jpg">
