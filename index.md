@@ -8,3 +8,6 @@ Mr. Spock ist ein Vulkanier und stammt vom Planeten Vulkan. Eigentlich ist er nu
 * Lieblingswort: Faszinierend
 * Körperlich sehr stark
 * Kann mit einem Griff jemanden bewustlos machen
+
+Ein typischer vulkanischer Gruß, den auch Mr. Spock gerne anbringt:
+> Live long and prosper
